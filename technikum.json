@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.de"
+                 "value":"https:\/\/www.ipfdd.de\/de\/ueber-uns\/"
                 }],
          "type":"tilelayer",
          "visible":true,
