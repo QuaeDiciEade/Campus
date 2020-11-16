@@ -97,7 +97,7 @@
          "height":90,
          "id":5,
          "name":"Desk",
-         "opacity":1,
+         "opacity":0.3,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -188,6 +188,19 @@
          "name":"tilesets_deviant_milkian_4",
          "spacing":0,
          "tilecount":289,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":899,
+         "image":"..\/ds2020workadventuretest\/zw-map\/tiles\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
          "tileheight":32,
          "tilewidth":32
         }],
