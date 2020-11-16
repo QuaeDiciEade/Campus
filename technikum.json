@@ -168,7 +168,7 @@
         {
          "columns":17,
          "firstgid":321,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets\/tilesets_deviant_milkian_2.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":0,
@@ -194,7 +194,7 @@
         {
          "columns":16,
          "firstgid":899,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
